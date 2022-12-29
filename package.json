@@ -1,7 +1,7 @@
 {
-  "name": "com.agava.tutorial",
-  "version": "1.0.0",
-  "displayName": "Tutorial",
-  "unity": "2020.3",
-  "description": "Tutorial implementation."
-}
+    "name": "com.agava.tutorial",
+    "version": "1.0.0",
+    "displayName": "Tutorial",
+    "unity": "2020.3",
+    "description": "Tutorial implementation."
+  }
