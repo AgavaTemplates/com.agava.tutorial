@@ -3,5 +3,12 @@
     "version": "1.0.0",
     "displayName": "Tutorial",
     "unity": "2020.3",
-    "description": "Tutorial implementation."
+    "description": "Tutorial implementation.",
+    "samples": [
+      {
+        "displayName": "Sample",
+        "description": "Contains tutorial samples",
+        "path": "Samples~"
+      }
+    ]
   }

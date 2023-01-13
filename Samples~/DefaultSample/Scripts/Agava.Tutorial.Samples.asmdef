@@ -1,0 +1,14 @@
+{
+    "name": "Agava.Tutorial.Samples",
+    "rootNamespace": "Agava.Tutorial.Samples",
+    "references": ["GUID:38821ba535c0187469be4e308e692db8"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
